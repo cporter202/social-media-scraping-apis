@@ -39,9 +39,11 @@
 
 <br>
 
-<a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank" style="display: inline-block; padding: 18px 45px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 35px; font-weight: 700; font-size: 19px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5), 0 0 0 3px rgba(102, 126, 234, 0.1); margin-top: 25px; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); border: 2px solid rgba(255, 255, 255, 0.3); letter-spacing: 0.8px; text-transform: uppercase; position: relative; overflow: hidden;" onmouseover="this.style.transform='translateY(-4px) scale(1.02)'; this.style.boxShadow='0 12px 35px rgba(102, 126, 234, 0.6), 0 0 0 4px rgba(102, 126, 234, 0.15)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.5), 0 0 0 3px rgba(102, 126, 234, 0.1)';">
-  🚀 Join Vibe Coding Community →
-</a>
+<div align="center">
+  <a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank" style="display: inline-block; background: #667eea; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #ffffff !important; text-decoration: none !important; padding: 18px 45px; font-size: 18px; font-weight: bold; border-radius: 35px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5); letter-spacing: 1px; text-transform: uppercase; border: 2px solid rgba(255, 255, 255, 0.3); cursor: pointer; transition: all 0.3s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    🚀 Join Vibe Coding Community →
+  </a>
+</div>
 
 </div>
 
