@@ -23,7 +23,7 @@
 
 *Your support helps others discover this valuable resource and keeps me motivated to maintain and update it regularly.*
 
-<a href="https://github.com/cporter202/API-mega-list/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/cporter202/API-mega-list?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>
+<a href="https://github.com/cporter202/social-media-scraping-apis/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/cporter202/social-media-scraping-apis?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>
 
 ---
 
