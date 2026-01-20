@@ -34,12 +34,14 @@
 *I'll show you how to set up applications to use these APIs and start making money! I have the best tech stack when it comes to vibe coding that virtually costs nothing. Forget tools like Loveable, Replit, Manus, Base44, etc.*
 
 <a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank">
-  <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1768930139096-Generated%20Image%20January%2011%2C%202026%20-%208_36PM.jpeg?alt=media&token=00b41d4a-a79b-4160-bf32-a9e26aedd306" alt="Join Vibe Coding with Chris" style="max-width: 300px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 20px 0;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1768930139096-Generated%20Image%20January%2011%2C%202026%20-%208_36PM.jpeg?alt=media&token=00b41d4a-a79b-4160-bf32-a9e26aedd306" alt="Join Vibe Coding with Chris" style="max-width: 350px; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3), 0 0 0 2px rgba(102, 126, 234, 0.1); margin: 25px 0; transition: all 0.3s ease; display: block; margin-left: auto; margin-right: auto;" onmouseover="this.style.transform='translateY(-5px) scale(1.02)'; this.style.boxShadow='0 15px 40px rgba(102, 126, 234, 0.4), 0 0 0 3px rgba(102, 126, 234, 0.15)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 10px 30px rgba(102, 126, 234, 0.3), 0 0 0 2px rgba(102, 126, 234, 0.1)';">
 </a>
 
 <br>
 
-<a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank" style="display: inline-block; padding: 12px 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); margin-top: 10px;">🎓 Join Vibe Coding Community</a>
+<a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank" style="display: inline-block; padding: 18px 45px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 35px; font-weight: 700; font-size: 19px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5), 0 0 0 3px rgba(102, 126, 234, 0.1); margin-top: 25px; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); border: 2px solid rgba(255, 255, 255, 0.3); letter-spacing: 0.8px; text-transform: uppercase; position: relative; overflow: hidden;" onmouseover="this.style.transform='translateY(-4px) scale(1.02)'; this.style.boxShadow='0 12px 35px rgba(102, 126, 234, 0.6), 0 0 0 4px rgba(102, 126, 234, 0.15)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.5), 0 0 0 3px rgba(102, 126, 234, 0.1)';">
+  🚀 Join Vibe Coding Community →
+</a>
 
 </div>
 
