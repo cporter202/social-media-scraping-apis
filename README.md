@@ -80,6 +80,26 @@ This collection contains **3,268 ready-to-use social media scraping APIs** that 
 
 ---
 
+## 🚀 Quick Start
+
+**New to social media scraping?** Start here:
+
+- 📖 **[Code Examples](./EXAMPLES.md)** - Ready-to-use code in Python, Node.js, and cURL
+- 📊 **[API Comparison](./COMPARISON.md)** - Compare APIs by platform, price, and use case
+- 🎯 **[Choose the Right API](#-by-platform)** - Platform-specific recommendations
+
+**Example: Scrape LinkedIn profiles in 3 lines of Python:**
+```python
+import requests
+response = requests.post("https://api.apify.com/v2/acts/dataweave~linkedin-profile-scraper/run-sync-get-dataset-items", 
+                         json={"token": "YOUR_TOKEN", "profileUrls": ["https://linkedin.com/in/username"]})
+print(response.json())
+```
+
+**[View all examples →](./EXAMPLES.md)**
+
+---
+
 ## 📚 Social Media APIs
 
 [View all Social Media Scraping APIs →](./social-media-apis-3268/)
