@@ -5,6 +5,35 @@
 const fs = require('fs');
 const path = require('path');
 
+const repositorySlug = 'cporter202/social-media-scraping-apis';
+const xquikDisclosure = 'Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.';
+
+function generateFeaturedXquikSection(headingLevel) {
+    const heading = '#'.repeat(headingLevel);
+    return [
+        `${heading} Featured X/Twitter APIs`,
+        '',
+        'These Xquik actors are useful starting points for teams building X/Twitter data workflows with structured exports and API automation.',
+        '',
+        xquikDisclosure,
+        '',
+        '| API Name | Description |',
+        '|----------|-------------|',
+        '| [Xquik X Tweet Scraper](https://apify.com/xquik/x-tweet-scraper) | Extract X/Twitter posts for social listening, market research, trend analysis, and agent context pipelines. |',
+        '| [Xquik X Follower Scraper](https://apify.com/xquik/x-follower-scraper) | Export follower profiles from X/Twitter accounts for audience research, segmentation, and growth analysis workflows. |',
+        '',
+        ''
+    ].join('\n');
+}
+
+function sanitizeTableText(value) {
+    return String(value || '')
+        .replace(/\u2014/g, '-')
+        .replace(/ \x2d\x2d /g, ' - ')
+        .replace(/\|/g, '&#124;')
+        .replace(/\n/g, ' ');
+}
+
 // Read the JSON file (look in parent directory)
 const jsonPath = path.join(__dirname, '..', 'apify_actors.json');
 const actors = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
@@ -124,7 +153,7 @@ content += `---\n\n`;
 content += `### ⭐ Star This Repository\n\n`;
 content += `**If this API list has helped you, please consider giving it a star! ⭐**\n\n`;
 content += `*Your support helps others discover this valuable resource and keeps me motivated to maintain and update it regularly.*\n\n`;
-content += `<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>\n\n`;
+content += `<a href="https://github.com/${repositorySlug}/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/${repositorySlug}?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>\n\n`;
 content += `---\n\n`;
 content += `### ☕ Support the Creator\n\n`;
 content += `**If this repo has helped you, consider buying me a coffee! ☕**\n\n`;
@@ -163,6 +192,9 @@ content += `**Each API is production-ready** - simply integrate it into your app
 
 content += `---\n\n`;
 
+content += generateFeaturedXquikSection(2);
+content += `---\n\n`;
+
 // Table of Contents - simple list format
 content += `## 📚 Table of Contents\n\n`;
 
@@ -187,6 +219,11 @@ function generateCategoryReadme(categoryName, categoryActors, anchor) {
     categoryContent += `<p align="right"><a href="../README.md#-table-of-contents">← Back to main list</a></p>\n\n`;
     categoryContent += `**Organized APIs by Category**\n\n`;
     categoryContent += `**${categoryActors.length.toLocaleString()} APIs in this category**\n\n`;
+
+    if (categoryName === 'Social Media') {
+        categoryContent += generateFeaturedXquikSection(2);
+        categoryContent += `## Generated API List\n\n`;
+    }
     
     // Sort actors by title
     const sortedActors = categoryActors.sort((a, b) => 
@@ -222,8 +259,8 @@ function generateCategoryReadme(categoryName, categoryActors, anchor) {
         }
         
         // Escape pipe characters and newlines for table format
-        cleanTitle = cleanTitle.replace(/\|/g, '&#124;').replace(/\n/g, ' ');
-        const safeDescription = (shortDescription || '').replace(/\|/g, '&#124;').replace(/\n/g, ' ');
+        cleanTitle = sanitizeTableText(cleanTitle);
+        const safeDescription = sanitizeTableText(shortDescription);
         
         if (safeDescription) {
             categoryContent += `| [${cleanTitle}](${affiliateUrl}) | ${safeDescription} |\n`;
@@ -264,6 +301,11 @@ for (const category of sortedCategories) {
     content += `## ${readable}\n\n`;
     content += `<p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>\n\n`;
     content += `**${categoryActors.length.toLocaleString()} APIs in this category** | [View all →](./${folderName}/)\n\n`;
+
+    if (readable === 'Social Media') {
+        content += generateFeaturedXquikSection(3);
+        content += `### Generated API List\n\n`;
+    }
     
     // Create table header
     content += `| API Name | Description |\n`;
@@ -296,8 +338,8 @@ for (const category of sortedCategories) {
         }
         
         // Escape pipe characters and newlines for table format
-        cleanTitle = cleanTitle.replace(/\|/g, '&#124;').replace(/\n/g, ' ');
-        const safeDescription = (shortDescription || '').replace(/\|/g, '&#124;').replace(/\n/g, ' ');
+        cleanTitle = sanitizeTableText(cleanTitle);
+        const safeDescription = sanitizeTableText(shortDescription);
         
         if (safeDescription) {
             content += `| [${cleanTitle}](${affiliateUrl}) | ${safeDescription} |\n`;
@@ -346,8 +388,8 @@ if (uncategorized.length > 0) {
         }
         
         // Escape pipe characters and newlines for table format
-        cleanTitle = cleanTitle.replace(/\|/g, '&#124;').replace(/\n/g, ' ');
-        const safeDescription = (shortDescription || '').replace(/\|/g, '&#124;').replace(/\n/g, ' ');
+        cleanTitle = sanitizeTableText(cleanTitle);
+        const safeDescription = sanitizeTableText(shortDescription);
         
         if (safeDescription) {
             content += `| [${cleanTitle}](${affiliateUrl}) | ${safeDescription} |\n`;
@@ -385,7 +427,7 @@ content += `<div align="center">\n\n`;
 content += `**Total APIs: ${totalActors.toLocaleString()}** | `;
 content += `**Categories: ${sortedCategories.length}** | `;
 content += `**Last Updated: ${new Date().toISOString().split('T')[0]}**\n\n`;
-content += `*One of the most valuable API lists on GitHub—period.* 💪\n\n`;
+content += `*One of the most valuable API lists on GitHub - period.* 💪\n\n`;
 content += `</div>\n`;
 
 // Write to README.md (in parent directory)
@@ -395,4 +437,3 @@ console.log(`✅ Clean README.md generated successfully!`);
 console.log(`   - ${sortedCategories.length} categories`);
 console.log(`   - ${(actors.length - filteredCount).toLocaleString()} total APIs (${filteredCount} filtered out)`);
 console.log(`   - ${uncategorized.length.toLocaleString()} uncategorized APIs`);
-
