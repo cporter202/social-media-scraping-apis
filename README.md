@@ -1,3 +1,23 @@
+소셜 미디어 스크래핑 API 3,268개 모음 — 데이터 수집 레퍼런스 끝판왕
+
+GitHub 레포 social-media-scraping-apis에 총 3,268개 스크래핑 API 정리
+
+X(Twitter), Instagram, Facebook, TikTok, YouTube, Reddit, LinkedIn 등 주요 SNS 전부 포함
+
+공식 API + 비공식 엔드포인트 + 크롤링 기반 서비스까지 광범위한 수집 방식
+
+API별로 플랫폼·기능·제공 데이터 유형 중심으로 구조화
+
+마케팅 분석, OSINT, 트렌드 분석, 감정 분석, 경쟁사 모니터링에 즉시 활용 가능
+
+직접 스크래핑 구현 전 “어디서 뽑을 수 있는지”를 한 번에 파악하는 용도에 최적
+
+AI 학습용 데이터 파이프라인 설계 시 초기 조사 시간 대폭 절감
+
+사이트 주소:
+https://github.com/cporter202/social-media-scraping-apis
+
+
 <div align="center">
 
 # 📱 Social Media Scraping APIs
