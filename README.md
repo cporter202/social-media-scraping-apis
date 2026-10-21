@@ -100,6 +100,25 @@ This collection contains **3,268 ready-to-use social media scraping APIs** that 
 
 ---
 
+## Featured Social Fetch APIs
+
+[Social Fetch](https://www.socialfetch.dev/) is a REST API and Apify actor suite for live public social data across 20+ platforms — one unified JSON schema, pay-as-you-go credits, and 100 free credits to start (no card required).
+
+| API Name | Description |
+|----------|-------------|
+| [Social Fetch API](https://www.socialfetch.dev/docs/api) | REST API for profiles, posts, comments, video transcripts, search, and engagement metrics across TikTok, Instagram, YouTube, X, LinkedIn, Reddit, Facebook, and more. One API key, one JSON schema. |
+| [Social Fetch on Apify](https://apify.com/social-fetch) | Apify Store profile with TikTok, Instagram, and YouTube scrapers — $1.98 per 1,000 rows, same API envelope as the REST platform. |
+| [TikTok Profile Scraper](https://apify.com/social-fetch/tiktok-profile-scraper) | Scrape public TikTok profiles by @handle: followers, bio, avatar, verification, and engagement metrics. Batch up to 1,000 handles per run. |
+| [TikTok Video Scraper](https://apify.com/social-fetch/tiktok-video-scraper) | Extract TikTok video metadata, stats, author info, and engagement by URL — up to 500 URLs per run. |
+| [TikTok Video Comments Scraper](https://apify.com/social-fetch/tiktok-video-comments-scraper) | Collect TikTok video comments with authors, likes, and replies for sentiment analysis and monitoring. |
+| [TikTok Transcript Scraper](https://apify.com/social-fetch/tiktok-transcript-scraper) | Pull WebVTT captions and transcripts from TikTok videos for AI pipelines and content analysis. |
+| [TikTok Profile Videos Scraper](https://apify.com/social-fetch/tiktok-profile-videos-scraper) | Paginate every video on a TikTok profile for creator audits and competitive intelligence. |
+| [Instagram Profile Scraper](https://apify.com/social-fetch/instagram-profile-scraper) | Scrape public Instagram profiles: followers, bio, avatar, verification, and post counts by @handle. |
+| [Instagram Post Scraper](https://apify.com/social-fetch/instagram-post-scraper) | Fetch Instagram post and reel metadata — captions, likes, comments, and media details by URL. |
+| [YouTube Video Scraper](https://apify.com/social-fetch/youtube-video-scraper) | Extract YouTube video metadata, channel info, view counts, and engagement by URL. |
+
+---
+
 ## 📚 Social Media APIs
 
 [View all Social Media Scraping APIs →](./social-media-apis-3268/)
@@ -125,6 +144,23 @@ This collection contains **3,268 ready-to-use social media scraping APIs** that 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
 **3,268 APIs in this category** | [View all →](./social-media-apis-3268/)
+
+### Featured Social Fetch APIs
+
+| API Name | Description |
+|----------|-------------|
+| [Social Fetch API](https://www.socialfetch.dev/docs/api) | REST API for profiles, posts, comments, video transcripts, search, and engagement metrics across TikTok, Instagram, YouTube, X, LinkedIn, Reddit, Facebook, and more. One API key, one JSON schema. |
+| [Social Fetch on Apify](https://apify.com/social-fetch) | Apify Store profile with TikTok, Instagram, and YouTube scrapers — $1.98 per 1,000 rows, same API envelope as the REST platform. |
+| [TikTok Profile Scraper](https://apify.com/social-fetch/tiktok-profile-scraper) | Scrape public TikTok profiles by @handle: followers, bio, avatar, verification, and engagement metrics. Batch up to 1,000 handles per run. |
+| [TikTok Video Scraper](https://apify.com/social-fetch/tiktok-video-scraper) | Extract TikTok video metadata, stats, author info, and engagement by URL — up to 500 URLs per run. |
+| [TikTok Video Comments Scraper](https://apify.com/social-fetch/tiktok-video-comments-scraper) | Collect TikTok video comments with authors, likes, and replies for sentiment analysis and monitoring. |
+| [TikTok Transcript Scraper](https://apify.com/social-fetch/tiktok-transcript-scraper) | Pull WebVTT captions and transcripts from TikTok videos for AI pipelines and content analysis. |
+| [TikTok Profile Videos Scraper](https://apify.com/social-fetch/tiktok-profile-videos-scraper) | Paginate every video on a TikTok profile for creator audits and competitive intelligence. |
+| [Instagram Profile Scraper](https://apify.com/social-fetch/instagram-profile-scraper) | Scrape public Instagram profiles: followers, bio, avatar, verification, and post counts by @handle. |
+| [Instagram Post Scraper](https://apify.com/social-fetch/instagram-post-scraper) | Fetch Instagram post and reel metadata — captions, likes, comments, and media details by URL. |
+| [YouTube Video Scraper](https://apify.com/social-fetch/youtube-video-scraper) | Extract YouTube video metadata, channel info, view counts, and engagement by URL. |
+
+### Generated API List
 
 | API Name | Description |
 |----------|-------------|
