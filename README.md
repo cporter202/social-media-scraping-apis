@@ -71,6 +71,12 @@
 
 <!-- APIMESA-FEATURED-END -->
 
+## Featured: EveryInfra
+
+| API Name | Description |
+|----------|-------------|
+| [EveryInfra Data API](https://everyinfra.com/docs) | Pay-per-use REST API gateway with 573 data APIs across 106 platforms (TikTok, Instagram, YouTube, X, Reddit, Amazon, Xiaohongshu, Douyin and more), plus 17 search tools and 52 captcha types. Data APIs start at $0.56 per 1,000 requests. Also available as a remote MCP endpoint (`https://api.everyinfra.com/mcp`); docs at [everyinfra.com/docs](https://everyinfra.com/docs) and [llms.txt](https://everyinfra.com/llms.txt). |
+
 ## 📊 Collection Statistics
 
 | Metric | Count |
