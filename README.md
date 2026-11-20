@@ -118,14 +118,9 @@ This collection contains **3,268 ready-to-use social media scraping APIs** that 
 **3,268 APIs in this category** | [View all →](./social-media-apis-3268/)
 
 <!-- OXYLABS-FEATURED-START -->
-<table>
-<tr>
-<td>
-<h3>⭐ Featured: Oxylabs</h3>
-<p><strong><a href="https://oxylabs.go2cloud.org/aff_c?offer_id=7&amp;aff_id=2841&amp;url_id=222">Oxylabs Web API</a></strong> — search and extract the live web for your applications and data workflows, with 177M+ IPs, 195 locations, and 24/7 dedicated support.</p>
-</td>
-</tr>
-</table>
+<a href="https://oxylabs.go2cloud.org/aff_c?offer_id=7&amp;aff_id=2841&amp;url_id=222">
+  <img src=".github/assets/oxylabs-featured-card.svg" width="100%" alt="Featured: Oxylabs — Oxylabs Web API: search and extract the live web for your applications and data workflows, with 177M+ IPs, 195 locations, and 24/7 dedicated support. Explore Oxylabs Web API →">
+</a>
 <!-- OXYLABS-FEATURED-END -->
 
 | API Name | Description |

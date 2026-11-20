@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title desc">
+<title id="title">Featured: Oxylabs</title>
+<desc id="desc">Oxylabs Web API — search and extract the live web for your applications and data workflows. 177M+ IPs, 195 locations, and 24/7 dedicated support.</desc>
+<rect x="1" y="1" width="898" height="178" rx="8" fill="#fffbe6" stroke="#d99a00" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#1f2328">
+<path d="m36 24 4.6 9.3 10.3 1.5-7.45 7.25 1.76 10.25L36 47.46l-9.21 4.84 1.76-10.25L21.1 34.8l10.3-1.5Z" fill="#f4c430"/>
+<text x="60" y="47" font-size="25" font-weight="700">Featured: Oxylabs</text>
+<text x="24" y="86" font-size="18" font-weight="700" fill="#0969da">Oxylabs Web API</text>
+<text x="178" y="86" font-size="18">— search and extract the live web for your applications</text>
+<text x="24" y="114" font-size="18">and data workflows, with 177M+ IPs, 195 locations, and 24/7 dedicated support.</text>
+<text x="24" y="153" font-size="16" font-weight="700" fill="#0969da">Explore Oxylabs Web API →</text>
+</g></svg>
