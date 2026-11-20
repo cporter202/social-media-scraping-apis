@@ -32,31 +32,22 @@
 
 <a href="https://github.com/cporter202/social-media-scraping-apis/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/cporter202/social-media-scraping-apis?style=for-the-badge&logo=github&color=yellow&label=Stars" alt="GitHub Stars"></a>
 
+</div>
+
 ---
 
-### 🚀 Join My Skool Community
+<div align="center">
 
-**Want to learn how to vibe code like the pros? Join my Skool community! 🎯**
+<!-- OXYLABS-BANNER-START -->
+## ⭐ Featured: Oxylabs
 
-*I'll show you how to set up applications to use these APIs and start making money! I have the best tech stack when it comes to vibe coding that virtually costs nothing. Forget tools like Loveable, Replit, Manus, Base44, etc.*
-
-<a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank">
-  <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1768930139096-Generated%20Image%20January%2011%2C%202026%20-%208_36PM.jpeg?alt=media&token=00b41d4a-a79b-4160-bf32-a9e26aedd306" alt="Join Vibe Coding with Chris" style="max-width: 350px; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3), 0 0 0 2px rgba(102, 126, 234, 0.1); margin: 25px 0; transition: all 0.3s ease; display: block; margin-left: auto; margin-right: auto;" onmouseover="this.style.transform='translateY(-5px) scale(1.02)'; this.style.boxShadow='0 15px 40px rgba(102, 126, 234, 0.4), 0 0 0 3px rgba(102, 126, 234, 0.15)';" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 10px 30px rgba(102, 126, 234, 0.3), 0 0 0 2px rgba(102, 126, 234, 0.1)';">
+<a href="https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=2841&url_id=222">
+  <img src=".github/assets/oxylabs-web-api-banner.png" alt="Oxylabs Web API — Search and extract the live web. 177M+ IPs, 195 locations, 24/7 dedicated support." width="100%">
 </a>
 
-<br>
+**[Oxylabs Web API](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=2841&url_id=222)** — search and extract the live web for your applications and data workflows, with 177M+ IPs, 195 locations, and 24/7 dedicated support.
 
-<div align="center">
-  <a href="https://www.skool.com/vibe-coding-with-chris-7196" target="_blank" style="display: inline-block; background: #667eea; background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #ffffff !important; text-decoration: none !important; padding: 18px 45px; font-size: 18px; font-weight: bold; border-radius: 35px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5); letter-spacing: 1px; text-transform: uppercase; border: 2px solid rgba(255, 255, 255, 0.3); cursor: pointer; transition: all 0.3s ease; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    🚀 Join Vibe Coding Community →
-  </a>
-</div>
-
-</div>
-
----
-
-<div align="center">
+<!-- OXYLABS-BANNER-END -->
 
 <!-- APIMESA-FEATURED-START -->
 ## ⭐ Featured: APIMesa
@@ -125,6 +116,13 @@ This collection contains **3,268 ready-to-use social media scraping APIs** that 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
 **3,268 APIs in this category** | [View all →](./social-media-apis-3268/)
+
+<!-- OXYLABS-FEATURED-START -->
+## ⭐ Featured: Oxylabs
+
+**[Oxylabs Web API](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=2841&url_id=222)** — search and extract the live web for your applications and data workflows, with 177M+ IPs, 195 locations, and 24/7 dedicated support.
+
+<!-- OXYLABS-FEATURED-END -->
 
 | API Name | Description |
 |----------|-------------|

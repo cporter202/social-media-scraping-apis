@@ -6,6 +6,13 @@
 
 **3,268 APIs in this category**
 
+<!-- OXYLABS-FEATURED-START -->
+## ⭐ Featured: Oxylabs
+
+**[Oxylabs Web API](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=2841&url_id=222)** — search and extract the live web for your applications and data workflows, with 177M+ IPs, 195 locations, and 24/7 dedicated support.
+
+<!-- OXYLABS-FEATURED-END -->
+
 | API Name | Description |
 |----------|-------------|
 | [✨ Instagram Public Post Details](https://apimesa.com) | Extract public Instagram post metadata, captions, images, canonical URLs, and structured page data when the source permits crawling. |
